@@ -1,3 +1,5 @@
+Made with AI for personal use.
+
 # Instagram Metadata Restorer
 
 A lightweight, dependency-free Python script that restores the original chronological "Date Modified" metadata to media files downloaded via Instagram's data export tool. 
